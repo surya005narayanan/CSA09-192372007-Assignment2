@@ -1,0 +1,5 @@
+
+Workload,Tickets,Fields,String_ms,StringBuilder_ms,StringBuffer_ms
+1,1,6,0.005,0.005,0.001
+2,10000,50,21.437,4.265,4.583
+3,1000,200,30.939,1.680,1.339
